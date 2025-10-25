@@ -48,4 +48,7 @@ Ini bagian Kontak & Kaki(bawah) <br>
 
 ## Tampilan:
 <img src="1761372167474.jpg" alt="Foto Lif" width="800">
-<img src="1761372167474.jpg" alt="Foto Lif" width="800">
+<img src="1761372184107.jpg" alt="Foto Lif" width="800">
+<br>
+
+kurang lebih bakal begitu, hanya saja itu agak terpotong
