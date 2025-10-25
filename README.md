@@ -1,3 +1,11 @@
 ## Pembuatan Repositori 
 <img src="1761367426615.jpg" alt="Foto Lif" width="200">
-Repository bisa diibaratkan seperti **folder online**, tempat semua file proyek disimpan dan bisa diakses dari mana aja.
+
+Berikut penjelasan bagian-bagian penting yang ada saat membuat repository:
+
+- **Repository Name** → aku kasih nama `Portofolio.` karena isi repo ini adalah proyek web portofolio.
+- **Description** → berisi penjelasan singkat tentang isi repository, misalnya “Tugas Pembuatan Portofolio dengan penjelasan HTML dan CSS”.
+- **Visibility** → aku pilih **Public**, supaya orang lain bisa melihat repository ini.
+- **Add README** → aku aktifkan, karena file README penting untuk menjelaskan isi proyek.
+- **Add .gitignore** → aku biarkan default, biasanya untuk mengabaikan file tertentu yang nggak perlu diunggah.
+- **Add License (MIT License)** → lisensi ini memperbolehkan orang lain memakai proyekku, tapi tetap mencantumkan nama pembuatnya.
