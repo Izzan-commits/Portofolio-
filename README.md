@@ -12,6 +12,21 @@ Berikut penjelasan bagian-bagian penting yang ada saat membuat repository:
 
 ## Penjelasan Beberapa bagian HTML
 
+PENJELASAN BAGIAN BAGIAN DASAR: 
+<br>
+
+- `<div>` = pembungkus elemen
+- `class` = nama yang dipakai buat ngatur gaya elemen lewat CSS
+- `<span>` = Digunakan untuk menandai teks tertentu agar bisa diberi gaya khusus.
 <img src="1761368300484.jpg" alt="Foto Lif" width="800">
+Link Untuk CSS Eksternal <br>
 
 - **Pakai: `<link rel="stylesheet" href="style.css">`** → Buat ngehubungin halaman HTML ke file CSS eksternal.
+<br>
+
+<img src="1761369976547.jpg" alt="Foto Lif" width="800">
+Ini bagian Kontak & Kaki(bawah) <br>
+
+- **Pakai: `<a href="mailto:lifdesign@gmail.com">`** → Agar saat di klik langsung membuka email ke alamat yang di cantumkan.
+- **Pakai: `<a href="Link Sosial Media">` → Ini buat Sosial Media Kayak Ig atau GitHub
+<br>
