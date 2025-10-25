@@ -13,3 +13,5 @@ Berikut penjelasan bagian-bagian penting yang ada saat membuat repository:
 ## Penjelasan Beberapa bagian HTML
 
 <img src="1761368300484.jpg" alt="Foto Lif" width="800">
+
+- **<link rel="stylesheet" href="style.css">** → Buat ngehubungin halaman HTML ke file CSS eksternal.
