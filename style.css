@@ -1,0 +1,101 @@
+/* Reset dasar */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+}
+
+.logo {
+    display: inline-block;
+    margin: 0;
+}
+
+.logo span {
+    color: #00bcd4;
+}
+
+.menu {
+    float: right;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.menu a:hover {
+    color: #00bcd4;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 50px 10px;
+}
+
+.header span {
+    color: #00bcd4;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #00bcd4;
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #0199ac;
+}
+
+/* Section umum */
+.section {
+    padding: 30px 15px;
+    text-align: center;
+}
+
+/* Project */
+.project {
+    background-color: white;
+    margin: 10px auto;
+    padding: 15px;
+    width: 80%;
+    border-radius: 5px;
+    box-shadow: 0 0 5px gray;
+}
+
+.project h3 {
+    color: #00bcd4;
+}
+
+/* Contact */
+.section a {
+    color: #00bcd4;
+    text-decoration: none;
+}
+
+.section a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+    background-color: #222;
+    color: #aaa;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
