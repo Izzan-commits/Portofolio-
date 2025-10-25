@@ -1,5 +1,5 @@
 ## Pembuatan Repositori 
-<img src="1761367426615.jpg" alt="Foto Lif" width="200">
+<img src="1761367426615.jpg" alt="Foto Lif" width="300">
 
 Berikut penjelasan bagian-bagian penting yang ada saat membuat repository:
 
@@ -9,3 +9,7 @@ Berikut penjelasan bagian-bagian penting yang ada saat membuat repository:
 - **Add README** → aku aktifkan, karena file README penting untuk menjelaskan isi proyek.
 - **Add .gitignore** → aku biarkan default, biasanya untuk mengabaikan file tertentu yang nggak perlu diunggah.
 - **Add License (MIT License)** → lisensi ini memperbolehkan orang lain memakai proyekku, tapi tetap mencantumkan nama pembuatnya.
+
+## Penjelasan Beberapa bagian HTML
+
+<img src="1761368300484.jpg" alt="Foto Lif" width="800">
